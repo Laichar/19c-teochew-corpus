@@ -1,3 +1,5 @@
+We will be using this transcription for all POJ-like records, keeping the transcription variants that deviate from this system in another document/JS converter script
+
 |          |  清不送氣音  |    清送氣音    |    濁音     |  鼻音/邊音  |   清擦音    |     濁擦音      |
 | :------: | :----------: | :------------: | :---------: | :---------: | :---------: |   :---------:   |
 | **脣音** |  p \[p\]  |  ph \[pʰ\]  | b \[b\]  | m \[m\]  |
