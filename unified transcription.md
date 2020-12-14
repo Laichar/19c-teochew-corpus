@@ -1,5 +1,8 @@
 We will be using this transcription for all POJ-like records, keeping the transcription variants that deviate from this system in another document/JS converter script
 
+
+The system used is reminiscent of TLPA but with Teochew-specific phonemes
+
 |          |  清不送氣音  |    清送氣音    |    濁音     |  鼻音/邊音  |   清擦音    |     濁擦音      |
 | :------: | :----------: | :------------: | :---------: | :---------: | :---------: |   :---------:   |
 | **脣音** |  p \[p\]  |  ph \[pʰ\]  | b \[b\]  | m \[m\]  |
@@ -9,3 +12,5 @@ We will be using this transcription for all POJ-like records, keeping the transc
 | **齦齶** |  | | j \[dʑ\] |
 | **軟齶** |  k \[k\]  |  kh \[kʰ\]  | g \[ɡ\]  | ng \[ŋ\] |             |                 |
 | **聲門** |   \[ʔ\]   |                |             |             | h \[h\]  |
+
+Where the original book uses **w** as a vowel, put **wu**.
